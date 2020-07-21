@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <Folder Include="behavioral\" />
-    <Folder Include="creational\factory\" />
     <Folder Include="structural\" />
   </ItemGroup>
 
